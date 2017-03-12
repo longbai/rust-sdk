@@ -1,0 +1,21 @@
+[package]
+
+name = "qiniu-rust"
+version = "0.1.0"
+description = "Qiniu Resource (Cloud) Storage SDK for Rust."
+readme = "README.md"
+documentation = "http://developer.qiniu.com"
+repository = "https://github.com/longbai/rust-sdk"
+license = "MIT"
+authors = ["Bai Long <slongbai@gmail.com>"]
+keywords = ["qiniu", "storage", "sdk", "cloud"]
+
+[dependencies]
+hyper = "*"
+
+[dev-dependencies]
+env_logger = "*"
+
+[[bin]]
+
+name = "qiniu_rust"

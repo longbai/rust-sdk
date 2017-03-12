@@ -1,0 +1,14 @@
+# Ignore Play! working directory #
+bin/
+build/
+target/
+
+Cargo.lock
+
+.idea
+
+# For MacOS:
+.DS_Store
+
+# For vim:
+*.swp
