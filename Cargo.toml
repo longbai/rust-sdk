@@ -12,6 +12,7 @@ keywords = ["qiniu", "storage", "sdk", "cloud"]
 
 [dependencies]
 hyper = "*"
+rustc-serialize = "*"
 crc = "^1.0.0"
 
 [dev-dependencies]
