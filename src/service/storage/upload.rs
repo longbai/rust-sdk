@@ -1,0 +1,4 @@
+
+struct UploadPolicy {
+    // field: Type
+}
